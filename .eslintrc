@@ -1,7 +1,11 @@
 {
   "extends": "airbnb",
   "globals": {
-    "__DEV__": true
+    "__DEV__": true,
+    "jest": {},
+    "describe": {},
+    "it": {},
+    "expect":{}
   },
   "rules": {
     "react/jsx-quotes": 0,
